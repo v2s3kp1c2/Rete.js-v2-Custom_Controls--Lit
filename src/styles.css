@@ -1,0 +1,12 @@
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#rete {
+  --accent-1: 255, 255, 255;
+  --accent-1b: 255, 255, 255;
+  height: 100vh;
+  width: 100vw;
+}
